@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.TracerLib.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Work\SPP\lab1-Tracer\SPP-master\.idea\.idea.TracerLib\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

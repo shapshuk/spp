@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ProgramThreads xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Threads>
+    <ThreadResult>
+      <Id>1</Id>
+      <Time>1313</Time>
+      <Methods>
+        <TraceResult>
+          <Time>812</Time>
+          <MethodName>TestMethod</MethodName>
+          <ClassName>TracerTest</ClassName>
+          <Methods />
+        </TraceResult>
+        <TraceResult>
+          <Time>501</Time>
+          <MethodName>TestTestTset</MethodName>
+          <ClassName>TracerTest</ClassName>
+          <Methods>
+            <TraceResult>
+              <Time>200</Time>
+              <MethodName>TesterAAAAAAAAA</MethodName>
+              <ClassName>TracerTestSecond</ClassName>
+              <Methods />
+            </TraceResult>
+          </Methods>
+        </TraceResult>
+      </Methods>
+    </ThreadResult>
+    <ThreadResult>
+      <Id>4</Id>
+      <Time>707</Time>
+      <Methods>
+        <TraceResult>
+          <Time>707</Time>
+          <MethodName>TesterBBBBBBBBBB</MethodName>
+          <ClassName>TracerTestSecond</ClassName>
+          <Methods>
+            <TraceResult>
+              <Time>202</Time>
+              <MethodName>TesterAAAAAAAAA</MethodName>
+              <ClassName>TracerTestSecond</ClassName>
+              <Methods />
+            </TraceResult>
+          </Methods>
+        </TraceResult>
+      </Methods>
+    </ThreadResult>
+    <ThreadResult>
+      <Id>6</Id>
+      <Time>502</Time>
+      <Methods>
+        <TraceResult>
+          <Time>502</Time>
+          <MethodName>TestTestTset</MethodName>
+          <ClassName>TracerTest</ClassName>
+          <Methods>
+            <TraceResult>
+              <Time>201</Time>
+              <MethodName>TesterAAAAAAAAA</MethodName>
+              <ClassName>TracerTestSecond</ClassName>
+              <Methods />
+            </TraceResult>
+          </Methods>
+        </TraceResult>
+      </Methods>
+    </ThreadResult>
+  </Threads>
+</ProgramThreads>
