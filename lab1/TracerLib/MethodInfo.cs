@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics;
 
-namespace Tracer
+namespace TracerLib
 {
     public class MethodInfo
     {

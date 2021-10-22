@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Tracer
+namespace TracerLib
 {
     public class Program
     {
