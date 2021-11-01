@@ -2,16 +2,25 @@
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Serialization;
 using System.Threading;
+using System.Xml.Serialization;
 
 namespace TracerLib
 {
+    [Serializable]
+    [DataContract]
     public class TraceResult
     {
-        private readonly ConcurrentDictionary<int, ThreadInfo> _threads = new ConcurrentDictionary<int, ThreadInfo>();
-        
-        public IReadOnlyCollection<ThreadInfo> Threads => _threads.Values.ToList();
-        
+        private ConcurrentDictionary<int, ThreadInfo> _threads = new ConcurrentDictionary<int, ThreadInfo>();
+
+        [DataMember]
+        public List<ThreadInfo> Threads
+        {
+            get => _threads.Values.ToList();
+            set => _threads = new ConcurrentDictionary<int, ThreadInfo>(value.ToDictionary(x => x.ThreadId));
+        }
+
         internal void StartTrace(MethodInfo methodInfo)
         {
             var threadId = Thread.CurrentThread.ManagedThreadId;

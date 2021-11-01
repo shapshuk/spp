@@ -4,14 +4,14 @@ namespace TracerLib.Serializers
 {
     public class JSONSerializer : ISerializer
     {
-        private readonly JsonSerializerOptions _options = new ()
+        private static readonly JsonSerializerOptions Options = new ()
         {
             WriteIndented = true
         };
         
         public string Serialize(TraceResult traceResult)
         {
-            return JsonSerializer.Serialize(traceResult, _options);
+            return JsonSerializer.Serialize(traceResult, Options);
         }
     }
 }
