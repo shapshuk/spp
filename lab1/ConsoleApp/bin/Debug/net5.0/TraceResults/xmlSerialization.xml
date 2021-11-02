@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TraceResult xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/TracerLib">
+     <Threads>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>320</ExecutionTime>
+                         <InnerMethods>
+                              <MethodInfo>
+                                   <ExecutionTime>107</ExecutionTime>
+                                   <InnerMethods />
+                                   <MethodName>CallMethod</MethodName>
+                              </MethodInfo>
+                         </InnerMethods>
+                         <MethodName>MultipleThreads</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>4</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>320</ExecutionTime>
+                         <InnerMethods>
+                              <MethodInfo>
+                                   <ExecutionTime>107</ExecutionTime>
+                                   <InnerMethods />
+                                   <MethodName>CallMethod</MethodName>
+                              </MethodInfo>
+                         </InnerMethods>
+                         <MethodName>MultipleThreads</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>5</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>320</ExecutionTime>
+                         <InnerMethods>
+                              <MethodInfo>
+                                   <ExecutionTime>107</ExecutionTime>
+                                   <InnerMethods />
+                                   <MethodName>CallMethod</MethodName>
+                              </MethodInfo>
+                         </InnerMethods>
+                         <MethodName>MultipleThreads</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>6</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>103</ExecutionTime>
+                         <InnerMethods />
+                         <MethodName>CallMethod</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>7</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>103</ExecutionTime>
+                         <InnerMethods />
+                         <MethodName>CallMethod</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>8</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>103</ExecutionTime>
+                         <InnerMethods />
+                         <MethodName>CallMethod</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>9</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>103</ExecutionTime>
+                         <InnerMethods />
+                         <MethodName>CallMethod</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>10</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>103</ExecutionTime>
+                         <InnerMethods />
+                         <MethodName>CallMethod</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>11</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>103</ExecutionTime>
+                         <InnerMethods />
+                         <MethodName>CallMethod</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>12</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>102</ExecutionTime>
+                         <InnerMethods />
+                         <MethodName>CallMethod</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>13</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>102</ExecutionTime>
+                         <InnerMethods />
+                         <MethodName>CallMethod</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>14</ThreadId>
+          </ThreadInfo>
+          <ThreadInfo>
+               <Methods>
+                    <MethodInfo>
+                         <ExecutionTime>102</ExecutionTime>
+                         <InnerMethods />
+                         <MethodName>CallMethod</MethodName>
+                    </MethodInfo>
+               </Methods>
+               <ThreadId>15</ThreadId>
+          </ThreadInfo>
+     </Threads>
+</TraceResult>
