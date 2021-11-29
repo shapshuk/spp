@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nlGY5LRVEc39CGQTypg1qTy+QOf43wW73WdGPLU0TgC2oU0CG5f1llrrzP+bWFXh6cUeEfKndAGc172dZg/J/Q==",
+  "success": true,
+  "projectFilePath": "F:\\Work\\spp\\lab1\\UnitTests\\UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+F:\Work\spp\lab2\FloatGen\bin\Debug\net5.0\FloatGen.deps.json
+F:\Work\spp\lab2\FloatGen\bin\Debug\net5.0\FloatGen.dll
+F:\Work\spp\lab2\FloatGen\bin\Debug\net5.0\ref\FloatGen.dll
+F:\Work\spp\lab2\FloatGen\bin\Debug\net5.0\FloatGen.pdb
+F:\Work\spp\lab2\FloatGen\bin\Debug\net5.0\FakerLib.dll
+F:\Work\spp\lab2\FloatGen\bin\Debug\net5.0\FakerLib.pdb
+F:\Work\spp\lab2\FloatGen\obj\Debug\net5.0\FloatGen.csprojAssemblyReference.cache
+F:\Work\spp\lab2\FloatGen\obj\Debug\net5.0\FloatGen.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\spp\lab2\FloatGen\obj\Debug\net5.0\FloatGen.AssemblyInfoInputs.cache
+F:\Work\spp\lab2\FloatGen\obj\Debug\net5.0\FloatGen.AssemblyInfo.cs
+F:\Work\spp\lab2\FloatGen\obj\Debug\net5.0\FloatGen.csproj.CoreCompileInputs.cache
+F:\Work\spp\lab2\FloatGen\obj\Debug\net5.0\FloatGen.csproj.CopyComplete
+F:\Work\spp\lab2\FloatGen\obj\Debug\net5.0\FloatGen.dll
+F:\Work\spp\lab2\FloatGen\obj\Debug\net5.0\ref\FloatGen.dll
+F:\Work\spp\lab2\FloatGen\obj\Debug\net5.0\FloatGen.pdb

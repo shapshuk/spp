@@ -1,0 +1,15 @@
+F:\Work\spp\lab2\LongGen\bin\Debug\net5.0\LongGen.deps.json
+F:\Work\spp\lab2\LongGen\bin\Debug\net5.0\LongGen.dll
+F:\Work\spp\lab2\LongGen\bin\Debug\net5.0\ref\LongGen.dll
+F:\Work\spp\lab2\LongGen\bin\Debug\net5.0\LongGen.pdb
+F:\Work\spp\lab2\LongGen\bin\Debug\net5.0\FakerLib.dll
+F:\Work\spp\lab2\LongGen\bin\Debug\net5.0\FakerLib.pdb
+F:\Work\spp\lab2\LongGen\obj\Debug\net5.0\LongGen.csprojAssemblyReference.cache
+F:\Work\spp\lab2\LongGen\obj\Debug\net5.0\LongGen.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\spp\lab2\LongGen\obj\Debug\net5.0\LongGen.AssemblyInfoInputs.cache
+F:\Work\spp\lab2\LongGen\obj\Debug\net5.0\LongGen.AssemblyInfo.cs
+F:\Work\spp\lab2\LongGen\obj\Debug\net5.0\LongGen.csproj.CoreCompileInputs.cache
+F:\Work\spp\lab2\LongGen\obj\Debug\net5.0\LongGen.csproj.CopyComplete
+F:\Work\spp\lab2\LongGen\obj\Debug\net5.0\LongGen.dll
+F:\Work\spp\lab2\LongGen\obj\Debug\net5.0\ref\LongGen.dll
+F:\Work\spp\lab2\LongGen\obj\Debug\net5.0\LongGen.pdb

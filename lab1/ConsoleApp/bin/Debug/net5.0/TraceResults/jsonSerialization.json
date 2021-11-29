@@ -1,0 +1,142 @@
+{
+  "Threads": [
+    {
+      "ThreadId": 5,
+      "Methods": [
+        {
+          "InnerMethods": [
+            {
+              "InnerMethods": [],
+              "ExecutionTime": 108,
+              "MethodName": "CallMethod"
+            }
+          ],
+          "ExecutionTime": 347,
+          "MethodName": "MultipleThreads"
+        }
+      ]
+    },
+    {
+      "ThreadId": 6,
+      "Methods": [
+        {
+          "InnerMethods": [
+            {
+              "InnerMethods": [],
+              "ExecutionTime": 108,
+              "MethodName": "CallMethod"
+            }
+          ],
+          "ExecutionTime": 347,
+          "MethodName": "MultipleThreads"
+        }
+      ]
+    },
+    {
+      "ThreadId": 7,
+      "Methods": [
+        {
+          "InnerMethods": [
+            {
+              "InnerMethods": [],
+              "ExecutionTime": 108,
+              "MethodName": "CallMethod"
+            }
+          ],
+          "ExecutionTime": 347,
+          "MethodName": "MultipleThreads"
+        }
+      ]
+    },
+    {
+      "ThreadId": 8,
+      "Methods": [
+        {
+          "InnerMethods": [],
+          "ExecutionTime": 113,
+          "MethodName": "CallMethod"
+        }
+      ]
+    },
+    {
+      "ThreadId": 9,
+      "Methods": [
+        {
+          "InnerMethods": [],
+          "ExecutionTime": 113,
+          "MethodName": "CallMethod"
+        }
+      ]
+    },
+    {
+      "ThreadId": 10,
+      "Methods": [
+        {
+          "InnerMethods": [],
+          "ExecutionTime": 113,
+          "MethodName": "CallMethod"
+        }
+      ]
+    },
+    {
+      "ThreadId": 11,
+      "Methods": [
+        {
+          "InnerMethods": [],
+          "ExecutionTime": 113,
+          "MethodName": "CallMethod"
+        }
+      ]
+    },
+    {
+      "ThreadId": 12,
+      "Methods": [
+        {
+          "InnerMethods": [],
+          "ExecutionTime": 110,
+          "MethodName": "CallMethod"
+        }
+      ]
+    },
+    {
+      "ThreadId": 13,
+      "Methods": [
+        {
+          "InnerMethods": [],
+          "ExecutionTime": 110,
+          "MethodName": "CallMethod"
+        }
+      ]
+    },
+    {
+      "ThreadId": 14,
+      "Methods": [
+        {
+          "InnerMethods": [],
+          "ExecutionTime": 110,
+          "MethodName": "CallMethod"
+        }
+      ]
+    },
+    {
+      "ThreadId": 15,
+      "Methods": [
+        {
+          "InnerMethods": [],
+          "ExecutionTime": 105,
+          "MethodName": "CallMethod"
+        }
+      ]
+    },
+    {
+      "ThreadId": 16,
+      "Methods": [
+        {
+          "InnerMethods": [],
+          "ExecutionTime": 104,
+          "MethodName": "CallMethod"
+        }
+      ]
+    }
+  ]
+}
