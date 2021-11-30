@@ -99,3 +99,6 @@ F:\Work\spp\lab2\FakerTests\obj\Debug\net5.0\FakerTests.dll
 F:\Work\spp\lab2\FakerTests\obj\Debug\net5.0\ref\FakerTests.dll
 F:\Work\spp\lab2\FakerTests\obj\Debug\net5.0\FakerTests.pdb
 F:\Work\spp\lab2\FakerTests\obj\Debug\net5.0\FakerTests.genruntimeconfig.cache
+F:\Work\spp\lab2\FakerTests\bin\Debug\net5.0\Castle.Core.dll
+F:\Work\spp\lab2\FakerTests\bin\Debug\net5.0\Moq.dll
+F:\Work\spp\lab2\FakerTests\bin\Debug\net5.0\NLog.dll

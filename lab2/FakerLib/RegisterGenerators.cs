@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace FakerLib
 {
-    public static class RegisterGenirators
+    public static class RegisterGenerators
     {
         public static string Path { get; } = "F:\\Work\\spp\\lab2\\FakerApp\\plugins";
 

@@ -10,12 +10,12 @@ namespace FakerApp
         public static void Main()
         {
             
-            RegisterGenirators.Register(new IntGen());
-            RegisterGenirators.Register(new StrGen());
-            RegisterGenirators.Register(new ListGen());           
-            RegisterGenirators.Register(new DateGen());
+            RegisterGenerators.Register(new IntGen());
+            RegisterGenerators.Register(new StrGen());
+            RegisterGenerators.Register(new ListGen());           
+            RegisterGenerators.Register(new DateGen());
             
-            RegisterGenirators.RegisterPlugins();
+            RegisterGenerators.RegisterPlugins();
 
 
             var faker = new Faker();

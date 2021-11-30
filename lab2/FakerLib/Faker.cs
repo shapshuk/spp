@@ -25,7 +25,7 @@ using System.Reflection;
 
 namespace FakerLib
 {
-    public class Faker
+    public class Faker : IFaker
     {
         private readonly Stack<Type> types = new Stack<Type>();
 
@@ -43,17 +43,17 @@ namespace FakerLib
                 return Generator.Generate(type);
             }
 
-            var ctors = type.GetConstructors();
-            if (ctors.Length == 0)
+            var ctor = type.GetConstructors().FirstOrDefault();
+            if (ctor == null)
             {
-                throw new Exception("Type has no public constructors");
+                throw new Exception("Type has no public constructors!");
             }
             
-            var parameters = ctors.First().GetParameters()
-                .Select(x => Generate(x.ParameterType));
+            var parameters = ctor.GetParameters()
+                .Select(x => Generate(x.ParameterType)).ToArray();
             
             var @object = parameters.Any()
-                ? Activator.CreateInstance(type, parameters)
+                ? ctor.Invoke(parameters)
                 : Activator.CreateInstance(type);
 
             foreach (var propInfo in type.GetProperties())
@@ -81,7 +81,7 @@ namespace FakerLib
 
                 if (types.Contains(type))
                 {
-                    throw new Exception("Cyclic dependency!!!!!!!!");
+                    throw new Exception("Cyclic dependency!");
                 }
 
                 return Create(type);
