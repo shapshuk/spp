@@ -1,0 +1,14 @@
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\bin\Debug\EXEProject.exe.config
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\bin\Debug\EXEProject.exe
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\bin\Debug\EXEProject.pdb
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\obj\Debug\EXEProject.csprojAssemblyReference.cache
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\obj\Debug\EXEProject.csproj.CoreCompileInputs.cache
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\obj\Debug\EXEProject.exe
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\obj\Debug\EXEProject.pdb
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\bin\Debug\EXEProject.exe.config
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\bin\Debug\EXEProject.exe
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\bin\Debug\EXEProject.pdb
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\obj\Debug\EXEProject.csprojAssemblyReference.cache
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\obj\Debug\EXEProject.csproj.CoreCompileInputs.cache
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\obj\Debug\EXEProject.exe
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\EXEProject\obj\Debug\EXEProject.pdb

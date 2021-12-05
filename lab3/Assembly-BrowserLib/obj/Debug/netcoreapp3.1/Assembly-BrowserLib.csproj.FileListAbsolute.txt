@@ -1,0 +1,19 @@
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.deps.json
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.dll
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.pdb
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.csprojAssemblyReference.cache
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.AssemblyInfoInputs.cache
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.AssemblyInfo.cs
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.csproj.CoreCompileInputs.cache
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.dll
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.pdb
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.deps.json
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.dll
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.pdb
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.csproj.AssemblyReference.cache
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.AssemblyInfoInputs.cache
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.AssemblyInfo.cs
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.csproj.CoreCompileInputs.cache
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.dll
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Assembly-BrowserLib\obj\Debug\netcoreapp3.1\Assembly-BrowserLib.pdb

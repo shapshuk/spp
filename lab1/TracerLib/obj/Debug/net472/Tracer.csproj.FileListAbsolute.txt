@@ -1,0 +1,9 @@
+F:\Work\spp\lab1\Tracer\bin\Debug\net472\Tracer.pdb
+F:\Work\spp\lab1\Tracer\obj\Debug\net472\Tracer.csprojAssemblyReference.cache
+F:\Work\spp\lab1\Tracer\obj\Debug\net472\Tracer.AssemblyInfoInputs.cache
+F:\Work\spp\lab1\Tracer\obj\Debug\net472\Tracer.AssemblyInfo.cs
+F:\Work\spp\lab1\Tracer\obj\Debug\net472\Tracer.csproj.CoreCompileInputs.cache
+F:\Work\spp\lab1\Tracer\obj\Debug\net472\Tracer.pdb
+F:\Work\spp\lab1\Tracer\bin\Debug\net472\Tracer.exe.config
+F:\Work\spp\lab1\Tracer\bin\Debug\net472\Tracer.exe
+F:\Work\spp\lab1\Tracer\obj\Debug\net472\Tracer.exe

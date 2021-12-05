@@ -1,0 +1,74 @@
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.exe
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.deps.json
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.runtimeconfig.json
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.runtimeconfig.dev.json
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.dll
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.pdb
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.dll
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.pdb
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csprojAssemblyReference.cache
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser_MarkupCompile.cache
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser_MarkupCompile.lref
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.g.resources
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfoInputs.cache
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfo.cs
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.CoreCompileInputs.cache
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.CopyComplete
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.dll
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.pdb
+F:\Work\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.genruntimeconfig.cache
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.exe
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.deps.json
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.runtimeconfig.json
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.runtimeconfig.dev.json
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.dll
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Browser.pdb
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.dll
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.pdb
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.AssemblyReference.cache
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser_MarkupCompile.cache
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser_MarkupCompile.lref
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.g.resources
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfoInputs.cache
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfo.cs
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.CoreCompileInputs.cache
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.CopyComplete
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.dll
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.pdb
+F:\Work\Архив\сем 5\SPP\lab3-Assebly-browser\Assembly-Browser-main\Assembly-Browser\Browser\obj\Debug\netcoreapp3.1\Browser.genruntimeconfig.cache
+F:\Work\spp\lab3\Browser\bin\Debug\netcoreapp3.1\Browser.exe
+F:\Work\spp\lab3\Browser\bin\Debug\netcoreapp3.1\Browser.deps.json
+F:\Work\spp\lab3\Browser\bin\Debug\netcoreapp3.1\Browser.runtimeconfig.json
+F:\Work\spp\lab3\Browser\bin\Debug\netcoreapp3.1\Browser.runtimeconfig.dev.json
+F:\Work\spp\lab3\Browser\bin\Debug\netcoreapp3.1\Browser.dll
+F:\Work\spp\lab3\Browser\bin\Debug\netcoreapp3.1\Browser.pdb
+F:\Work\spp\lab3\Browser\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Work\spp\lab3\Browser\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.dll
+F:\Work\spp\lab3\Browser\bin\Debug\netcoreapp3.1\Assembly-BrowserLib.pdb
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.AssemblyReference.cache
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\App.g.cs
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser_MarkupCompile.cache
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser_MarkupCompile.lref
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser.g.resources
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfoInputs.cache
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfo.cs
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.CoreCompileInputs.cache
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.CopyComplete
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser.dll
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser.pdb
+F:\Work\spp\lab3\Browser\obj\Debug\netcoreapp3.1\Browser.genruntimeconfig.cache

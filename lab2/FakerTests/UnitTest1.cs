@@ -74,7 +74,7 @@ namespace FakerTest
         }
 
         [Test]
-        public void SHouldGEnerateINt()
+        public void ShouldGenerateInt()
         {
             var i = faker.Create<int>();
             if (i != 0)
@@ -150,7 +150,7 @@ namespace FakerTest
         }
 
         [Test]
-        public void CreateGeneticTest()
+        public void CreateGenericTest()
         {
             var mock = new Mock<IFaker>();
             mock.Setup(a => a.Create<List<string>>()).Returns(new List<string>());
@@ -159,9 +159,9 @@ namespace FakerTest
             List<string> actual = mockFaker.Create<List<string>>();
 
             if ((actual != null) && (!actual.Any()))
-                logger.Info("CreateGeneticTest completed succesfully: objects are empty");
+                logger.Info("CreateGenericTest completed succesfully: objects are empty");
             else
-                logger.Info("CreateGeneticTest completed not succesfully: objects are't empty or null");
+                logger.Info("CreateGenericTest completed not succesfully: objects are't empty or null");
             Assert.IsEmpty(actual);
         }
 

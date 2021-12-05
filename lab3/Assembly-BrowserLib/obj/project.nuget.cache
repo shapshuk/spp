@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYm+b4kk498hiqI9rfJfFtR9omhccxbKHCzB06iI8JgscdPdQsVgT9BV3hcormW7pUOVIQgLta6I4FdUV+19iA==",
+  "success": true,
+  "projectFilePath": "F:\\Work\\spp\\lab3\\Assembly-BrowserLib\\Assembly-BrowserLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

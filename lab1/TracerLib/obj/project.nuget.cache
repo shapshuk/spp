@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "08jAmigMhUyHIpJRU2AKKwWb7AVY4hE2BARZj8I+tTcvvoDRt3HZLnPNI3I3Z2GCsgJlhHeba0GdgpVGsnfk0w==",
+  "success": true,
+  "projectFilePath": "F:\\Work\\spp\\lab1\\TracerLib\\TracerLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
